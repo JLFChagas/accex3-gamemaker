@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objetos","order":2,"path":"folders/objetos.yy",},
+    {"name":"sprites","order":1,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_controlador","order":1,"path":"objects/obj_controlador/obj_controlador.yy",},
+    {"name":"obj_inimigo","order":4,"path":"objects/obj_inimigo/obj_inimigo.yy",},
+    {"name":"obj_plataforma","order":3,"path":"objects/obj_plataforma/obj_plataforma.yy",},
+    {"name":"obj_porta","order":2,"path":"objects/obj_porta/obj_porta.yy",},
+    {"name":"spr_inimigo","order":1,"path":"sprites/spr_inimigo/spr_inimigo.yy",},
+    {"name":"spr_plataforma","order":2,"path":"sprites/spr_plataforma/spr_plataforma.yy",},
+    {"name":"spr_porta","order":3,"path":"sprites/spr_porta/spr_porta.yy",},
+  ],
+}

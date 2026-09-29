@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fase5","order":1,"path":"rooms/fase5/fase5.yy",},
+    {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
+  ],
+}

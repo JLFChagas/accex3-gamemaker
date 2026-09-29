@@ -1,0 +1,2 @@
+global.passou = false;
+

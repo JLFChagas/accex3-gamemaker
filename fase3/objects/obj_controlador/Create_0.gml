@@ -1,0 +1,2 @@
+passou = false;
+morreu = false;
